@@ -1,0 +1,50 @@
+Chapters
+	BlockChain# add heavily
+	Introduction# redo all as it is very dry and does not grab the readers attention
+
+general#
+	Manual for new users
+	Intertwine content from the 'bitcoin white paper' document to give it some legitimacy
+	edit out Satoshi Nakamoto comments to reflect the up to date truth
+
+ideas
+	theory of computation
+	theory of encryption
+	hash
+	history of trade and why is always about trade
+
+replace
+	dollar - US Dollar
+
+give other bitcoin documents to him
+
+search
+	issues in countries# israel| usa| uk| europe| china| russia?
+		https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country
+		http://www.nasdaq.com/article/governments-around-the-world-are-warming-up-to-bitcoin-and-the-blockchain-cm586766
+		https://www.cryptocoinsnews.com/bitcoin-inevitable-say-israeli-politicians-central-bankers/
+		http://www.coindesk.com/4-pressures-shaping-bitcoin-regulation-in-2016/
+		http://www.coindesk.com/regulation/
+		http://www.coindesk.com/australia-near-decision-bitcoin-exchange-aml-ctf/
+			AML regulation
+		http://www.coindesk.com/bitcoin-legal-map/
+	sha265 security
+		http://security.stackexchange.com/questions/34256/sha256-security-what-does-it-mean-that-attacks-have-broken-46-of-the-60-rounds
+		http://crypto.stackexchange.com/questions/2251/how-secure-is-aes-256
+
+	system#	computation| electricity usage| market cap 6 Billion?
+	IMF| world Bank| UN view on bitcoins
+		http://www.imf.org/external/pubs/cat/longres.aspx?sk=43618
+		http://www.coindesk.com/un-paper-pushing-bitcoin-third-world-issues-techno-colonialism/
+			un study of biscoin
+	
+
+Traditionally, when it comes to currency, Governments care most about the issue of tax payment. Most governments allow the creation and circulation of alternative currencies in a community. However when any barter is done without the use of the standard national currency (such as US Dollar), taxation still applies on the fair market value of that transaction, just as if the normal national currency would have been used.
+
+
+
+With bitcoin, no one can access your bitcoins without the private keys, never.
+
+bitcoin is to paypal what linux is to windows
+
+
